@@ -34,3 +34,15 @@ Core/           Main application source code
 Drivers/        STM32 HAL and CMSIS drivers
 Middlewares/    FreeRTOS middleware
 IOT2.ioc        STM32CubeMX configuration file
+```
+
+## Demo Video
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1s3vPyeEUkB8SpDj9e1Nro_5s-1otYczW/view?usp=drive_link)
+
+## How to Open
+
+1. Open STM32CubeIDE.
+2. Choose `File > Import > Existing Projects into Workspace`.
+3. Select this project folder.
+4. Build and flash to the STM32 board.
