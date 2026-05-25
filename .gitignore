@@ -1,0 +1,25 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+build/
+
+# Compiled objects
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
